@@ -17,7 +17,7 @@
 * Scripting (Bash/Python/JS/Ruby)
 
 
-##### 🌱 Actual side project : I am leveraging a saving water infrastructure for agriculture on kubernetes. 
+##### 🌱 AI am am also volunteering on a saving water infrastructure open source project for agriculture development. 
 
 ### 📫 How to reach me: [@Marco45Palomo](https://twitter.com/Marco45Palomo)
 
