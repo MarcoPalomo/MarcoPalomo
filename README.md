@@ -8,7 +8,7 @@
 -->
 
 
-##### 🔭 I’m currently working as a SRE. It means that I make my all to build trust & alignmentacross teams to collaborate effectively across teams and partners to achieve the Corporate goals by :
+##### 🔭 I’m currently working as a SRE to achieve the Corporate goals by :
  
 * Creating, using, maintaining a capacity model for on-prem, containers and cloud hosting, based on IaC and CM tools
 * Maintaining CI/CD pipelines that simplify and improve software deployments to enable high velocity
@@ -17,7 +17,7 @@
 * Scripting (Bash/Python/JS/Ruby)
 
 
-##### 🌱 AI am am also volunteering on a saving water infrastructure open source project for agriculture development. 
+##### 🌱 I am also volunteering on a saving water infrastructure open source project for agriculture development. 
 
 ### 📫 How to reach me: [@Marco45Palomo](https://twitter.com/Marco45Palomo)
 
