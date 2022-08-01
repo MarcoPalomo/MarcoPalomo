@@ -13,8 +13,8 @@
 * Creating, using, maintaining a capacity model for on-prem, containers and cloud hosting, based on IaC and CM tools
 * Maintaining CI/CD pipelines that simplify and improve software deployments to enable high velocity
 * Generating well defined and documented standard processes for the enterprise
-* Queuing and data-pipeline solutions (RabbitMQ, ZeroMQ, pub/sub, SQS)
-* Scripting (Bash/Python/JS/Ruby)
+* Queuing and data-streaming solutions (Kafka, RabbitMQ, ZeroMQ, pub/sub, SQS)
+* Scripting (Bash/Java/Python/JS/Golang)
 
 
 ##### 🌱 I am also volunteering on a saving water infrastructure open source project for agriculture development. 
