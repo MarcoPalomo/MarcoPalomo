@@ -11,6 +11,7 @@
 ##### 🔭 I’m currently working as a SRE to achieve the Corporate goals by :
  
 * Creating, using, maintaining a capacity model for on-prem, containers and cloud hosting, based on IaC and CM tools
+* Enabling complex services meshes (with Istio, Gloo and Linkerd) between VMs, Kubernetes and Cloud infrastructures. 
 * Maintaining CI/CD pipelines that simplify and improve software deployments to enable high velocity
 * Generating well defined and documented standard processes for the enterprise
 * Queuing and data-streaming solutions (Kafka, RabbitMQ, ZeroMQ, pub/sub, SQS)
