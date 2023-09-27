@@ -10,9 +10,9 @@
 
 ##### 🔭 I’m currently working as a Plateform Engineer mainly :
  
-🔹 Creating, using, maintaining a capacity model for on-prem, containers and cloud hosting, based on IaC, Knative
-🔹 Enabling complex services meshes (with Istio, Gloo and Linkerd) between VMs, Kubernetes and Cloud infrastructures.
-🔹 Maintaining CI/CD pipelines that simplify and improve software deployments to enable high velocity
+🔹 Creating, using, maintaining a capacity model for on-prem, containers and cloud hosting, based on IaC, Knative \
+🔹 Enabling complex services meshes (with Istio, Gloo and Linkerd) between VMs, Kubernetes and Cloud infrastructures \
+🔹 Maintaining CI/CD pipelines that simplify and improve software deployments to enable high velocity \
 🔹 Queuing and data-streaming solutions (Kafka, RabbitMQ, ZeroMQ, pub/sub, SQS)
 
 🌱 I am also volunteering on a saving water infrastructure open source project for agriculture development. 
