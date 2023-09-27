@@ -1,6 +1,3 @@
-
-![]([https://pbs.twimg.com/profile_banners/3888641237/1545569210/600x200](https://e7.pngegg.com/pngimages/32/28/png-clipart-hydroponics-vertical-farming-agriculture-logo-others-miscellaneous-leaf-thumbnail.png))
-
 👋
 
 <h1> If you are there, it's probably because you are looking to treat your infrastructure operations as if it’s a software problem. </h1>
