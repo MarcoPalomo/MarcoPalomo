@@ -8,17 +8,14 @@
 -->
 
 
-##### 🔭 I’m currently working as a SRE to achieve the Corporate goals by :
+##### 🔭 I’m currently working as a Plateform Engineer mainly :
  
-* Creating, using, maintaining a capacity model for on-prem, containers and cloud hosting, based on IaC and CM tools
-* Enabling complex services meshes (with Istio, Gloo and Linkerd) between VMs, Kubernetes and Cloud infrastructures. 
-* Maintaining CI/CD pipelines that simplify and improve software deployments to enable high velocity
-* Generating well defined and documented standard processes for the enterprise
-* Queuing and data-streaming solutions (Kafka, RabbitMQ, ZeroMQ, pub/sub, SQS)
-* Scripting (Bash/Java/Python/JS/Golang)
+🔹 Creating, using, maintaining a capacity model for on-prem, containers and cloud hosting, based on IaC, Knative
+🔹 Enabling complex services meshes (with Istio, Gloo and Linkerd) between VMs, Kubernetes and Cloud infrastructures.
+🔹 Maintaining CI/CD pipelines that simplify and improve software deployments to enable high velocity
+🔹 Queuing and data-streaming solutions (Kafka, RabbitMQ, ZeroMQ, pub/sub, SQS)
 
-
-##### 🌱 I am also volunteering on a saving water infrastructure open source project for agriculture development. 
+🌱 I am also volunteering on a saving water infrastructure open source project for agriculture development. 
 
 ### 📫 How to reach me: [@Marco45Palomo](https://twitter.com/Marco45Palomo)
 
