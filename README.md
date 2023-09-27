@@ -15,5 +15,5 @@
 
 🌱 I am also volunteering on a saving water infrastructure open source project for agriculture development. 
 
-### 📫 How to reach me: [@Marco45Palomo](https://twitter.com/Marco45Palomo)
+📫 How to reach me: [@Marco45Palomo](https://twitter.com/Marco45Palomo)
 
