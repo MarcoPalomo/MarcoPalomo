@@ -14,3 +14,5 @@
 
 📫 How to reach me: [@Marco45Palomo](https://twitter.com/Marco45Palomo)
 
+My [resume](https://lpmb45.tiiny.site)
+
